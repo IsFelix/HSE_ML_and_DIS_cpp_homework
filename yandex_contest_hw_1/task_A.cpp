@@ -12,7 +12,7 @@
 
 #include <iostream>
 
-int main1() {
+int main() {
     int c1;
     int r1;
     int c2;

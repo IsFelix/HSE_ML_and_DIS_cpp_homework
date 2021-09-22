@@ -12,7 +12,7 @@
 #include <iostream>
 #include <map>
 
-int main2() {
+int main() {
     int day_num;
 
     std::cin >> day_num;

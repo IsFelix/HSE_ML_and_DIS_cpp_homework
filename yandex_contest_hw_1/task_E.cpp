@@ -14,7 +14,7 @@
 
 #include <iostream>
 
-int main5() {
+int main() {
     int V, t, S, L_mkad;
 
     std::cin >> V;

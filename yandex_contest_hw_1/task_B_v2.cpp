@@ -15,7 +15,7 @@
 
 using namespace std;
 
-int main22() {
+int main() {
     int n;
     vector<string> v = {"mon", "tue","wed","thu","fri","sat","sun"};
     cin >> n;

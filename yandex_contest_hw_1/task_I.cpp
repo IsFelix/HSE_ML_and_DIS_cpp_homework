@@ -13,7 +13,7 @@
 
 using namespace std;
 
-int mainI () {
+int main () {
     int k;
     string N;
 

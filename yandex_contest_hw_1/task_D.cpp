@@ -14,7 +14,7 @@
 
 using namespace std;
 
-int main4() {
+int main() {
     int n;
     cin >> n;
     double sum = 0.0;

@@ -23,7 +23,7 @@
 
 using namespace std;
 
-int mainF() {
+int main() {
     string password;
     int upper_character_cnt, lower_character_cnt, digit_character_cnt, punct_character_cnt;
 

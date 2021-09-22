@@ -17,7 +17,7 @@
 
 using namespace std;
 
-int mainJ() {
+int main() {
     int n, m;
 
     cin >> n;

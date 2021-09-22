@@ -15,7 +15,7 @@
 
 using namespace std;
 
-int mainH() {
+int main() {
     string input_string, clear_string, output_string;
 
     getline(cin, input_string);

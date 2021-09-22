@@ -10,7 +10,7 @@
 
 #include <iostream>
 
-int main3() {
+int main() {
     int n, sum;
 
     std::cin >> n;
