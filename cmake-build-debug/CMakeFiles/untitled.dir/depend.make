@@ -23,5 +23,23 @@ CMakeFiles/untitled.dir/yandex_contest_hw_1/task_I.cpp.obj: \
  ../yandex_contest_hw_1/task_I.cpp
 CMakeFiles/untitled.dir/yandex_contest_hw_1/task_J.cpp.obj: \
  ../yandex_contest_hw_1/task_J.cpp
-CMakeFiles/untitled.dir/yandex_contest_hw_1/tmp_test.cpp.obj: \
- ../yandex_contest_hw_1/tmp_test.cpp
+CMakeFiles/untitled.dir/yandex_contest_hw_2/task_2A.cpp.obj: \
+ ../yandex_contest_hw_2/task_2A.cpp
+CMakeFiles/untitled.dir/yandex_contest_hw_2/task_2B.cpp.obj: \
+ ../yandex_contest_hw_2/task_2B.cpp
+CMakeFiles/untitled.dir/yandex_contest_hw_2/task_2C.cpp.obj: \
+ ../yandex_contest_hw_2/task_2C.cpp
+CMakeFiles/untitled.dir/yandex_contest_hw_2/task_2D.cpp.obj: \
+ ../yandex_contest_hw_2/task_2D.cpp
+CMakeFiles/untitled.dir/yandex_contest_hw_2/task_2E.cpp.obj: \
+ ../yandex_contest_hw_2/task_2E.cpp
+CMakeFiles/untitled.dir/yandex_contest_hw_2/task_2F.cpp.obj: \
+ ../yandex_contest_hw_2/task_2F.cpp
+CMakeFiles/untitled.dir/yandex_contest_hw_2/task_2G.cpp.obj: \
+ ../yandex_contest_hw_2/task_2G.cpp
+CMakeFiles/untitled.dir/yandex_contest_hw_2/task_2H.cpp.obj: \
+ ../yandex_contest_hw_2/task_2H.cpp
+CMakeFiles/untitled.dir/yandex_contest_hw_2/task_2I.cpp.obj: \
+ ../yandex_contest_hw_2/task_2I.cpp
+CMakeFiles/untitled.dir/yandex_contest_hw_2/task_2J.cpp.obj: \
+ ../yandex_contest_hw_2/task_2J.cpp

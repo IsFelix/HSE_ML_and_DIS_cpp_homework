@@ -52,10 +52,10 @@ RM = "C:\Program Files\JetBrains\CLion 2021.2.1\bin\cmake\win\bin\cmake.exe" -E 
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "C:\Users\Felix Isaakyan\CLionProjects\untitled"
+CMAKE_SOURCE_DIR = "C:\Users\Felix Isaakyan\Documents\GitHub\HSE_ML_and_DIS_cpp_homework"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "C:\Users\Felix Isaakyan\CLionProjects\untitled\cmake-build-debug"
+CMAKE_BINARY_DIR = "C:\Users\Felix Isaakyan\Documents\GitHub\HSE_ML_and_DIS_cpp_homework\cmake-build-debug"
 
 # Include any dependencies generated for this target.
 include CMakeFiles/untitled.dir/depend.make
@@ -67,159 +67,276 @@ include CMakeFiles/untitled.dir/flags.make
 
 CMakeFiles/untitled.dir/yandex_contest_hw_1/task_A.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/yandex_contest_hw_1/task_A.cpp.obj: ../yandex_contest_hw_1/task_A.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\Felix Isaakyan\CLionProjects\untitled\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/untitled.dir/yandex_contest_hw_1/task_A.cpp.obj"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\yandex_contest_hw_1\task_A.cpp.obj -c "C:\Users\Felix Isaakyan\CLionProjects\untitled\yandex_contest_hw_1\task_A.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\Felix Isaakyan\Documents\GitHub\HSE_ML_and_DIS_cpp_homework\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/untitled.dir/yandex_contest_hw_1/task_A.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\yandex_contest_hw_1\task_A.cpp.obj -c "C:\Users\Felix Isaakyan\Documents\GitHub\HSE_ML_and_DIS_cpp_homework\yandex_contest_hw_1\task_A.cpp"
 
 CMakeFiles/untitled.dir/yandex_contest_hw_1/task_A.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/yandex_contest_hw_1/task_A.cpp.i"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Felix Isaakyan\CLionProjects\untitled\yandex_contest_hw_1\task_A.cpp" > CMakeFiles\untitled.dir\yandex_contest_hw_1\task_A.cpp.i
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Felix Isaakyan\Documents\GitHub\HSE_ML_and_DIS_cpp_homework\yandex_contest_hw_1\task_A.cpp" > CMakeFiles\untitled.dir\yandex_contest_hw_1\task_A.cpp.i
 
 CMakeFiles/untitled.dir/yandex_contest_hw_1/task_A.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/yandex_contest_hw_1/task_A.cpp.s"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\Felix Isaakyan\CLionProjects\untitled\yandex_contest_hw_1\task_A.cpp" -o CMakeFiles\untitled.dir\yandex_contest_hw_1\task_A.cpp.s
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\Felix Isaakyan\Documents\GitHub\HSE_ML_and_DIS_cpp_homework\yandex_contest_hw_1\task_A.cpp" -o CMakeFiles\untitled.dir\yandex_contest_hw_1\task_A.cpp.s
 
 CMakeFiles/untitled.dir/yandex_contest_hw_1/task_B.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/yandex_contest_hw_1/task_B.cpp.obj: ../yandex_contest_hw_1/task_B.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\Felix Isaakyan\CLionProjects\untitled\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/untitled.dir/yandex_contest_hw_1/task_B.cpp.obj"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\yandex_contest_hw_1\task_B.cpp.obj -c "C:\Users\Felix Isaakyan\CLionProjects\untitled\yandex_contest_hw_1\task_B.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\Felix Isaakyan\Documents\GitHub\HSE_ML_and_DIS_cpp_homework\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/untitled.dir/yandex_contest_hw_1/task_B.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\yandex_contest_hw_1\task_B.cpp.obj -c "C:\Users\Felix Isaakyan\Documents\GitHub\HSE_ML_and_DIS_cpp_homework\yandex_contest_hw_1\task_B.cpp"
 
 CMakeFiles/untitled.dir/yandex_contest_hw_1/task_B.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/yandex_contest_hw_1/task_B.cpp.i"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Felix Isaakyan\CLionProjects\untitled\yandex_contest_hw_1\task_B.cpp" > CMakeFiles\untitled.dir\yandex_contest_hw_1\task_B.cpp.i
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Felix Isaakyan\Documents\GitHub\HSE_ML_and_DIS_cpp_homework\yandex_contest_hw_1\task_B.cpp" > CMakeFiles\untitled.dir\yandex_contest_hw_1\task_B.cpp.i
 
 CMakeFiles/untitled.dir/yandex_contest_hw_1/task_B.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/yandex_contest_hw_1/task_B.cpp.s"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\Felix Isaakyan\CLionProjects\untitled\yandex_contest_hw_1\task_B.cpp" -o CMakeFiles\untitled.dir\yandex_contest_hw_1\task_B.cpp.s
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\Felix Isaakyan\Documents\GitHub\HSE_ML_and_DIS_cpp_homework\yandex_contest_hw_1\task_B.cpp" -o CMakeFiles\untitled.dir\yandex_contest_hw_1\task_B.cpp.s
 
 CMakeFiles/untitled.dir/yandex_contest_hw_1/task_C.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/yandex_contest_hw_1/task_C.cpp.obj: ../yandex_contest_hw_1/task_C.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\Felix Isaakyan\CLionProjects\untitled\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/untitled.dir/yandex_contest_hw_1/task_C.cpp.obj"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\yandex_contest_hw_1\task_C.cpp.obj -c "C:\Users\Felix Isaakyan\CLionProjects\untitled\yandex_contest_hw_1\task_C.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\Felix Isaakyan\Documents\GitHub\HSE_ML_and_DIS_cpp_homework\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/untitled.dir/yandex_contest_hw_1/task_C.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\yandex_contest_hw_1\task_C.cpp.obj -c "C:\Users\Felix Isaakyan\Documents\GitHub\HSE_ML_and_DIS_cpp_homework\yandex_contest_hw_1\task_C.cpp"
 
 CMakeFiles/untitled.dir/yandex_contest_hw_1/task_C.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/yandex_contest_hw_1/task_C.cpp.i"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Felix Isaakyan\CLionProjects\untitled\yandex_contest_hw_1\task_C.cpp" > CMakeFiles\untitled.dir\yandex_contest_hw_1\task_C.cpp.i
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Felix Isaakyan\Documents\GitHub\HSE_ML_and_DIS_cpp_homework\yandex_contest_hw_1\task_C.cpp" > CMakeFiles\untitled.dir\yandex_contest_hw_1\task_C.cpp.i
 
 CMakeFiles/untitled.dir/yandex_contest_hw_1/task_C.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/yandex_contest_hw_1/task_C.cpp.s"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\Felix Isaakyan\CLionProjects\untitled\yandex_contest_hw_1\task_C.cpp" -o CMakeFiles\untitled.dir\yandex_contest_hw_1\task_C.cpp.s
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\Felix Isaakyan\Documents\GitHub\HSE_ML_and_DIS_cpp_homework\yandex_contest_hw_1\task_C.cpp" -o CMakeFiles\untitled.dir\yandex_contest_hw_1\task_C.cpp.s
 
 CMakeFiles/untitled.dir/yandex_contest_hw_1/task_E.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/yandex_contest_hw_1/task_E.cpp.obj: ../yandex_contest_hw_1/task_E.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\Felix Isaakyan\CLionProjects\untitled\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/untitled.dir/yandex_contest_hw_1/task_E.cpp.obj"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\yandex_contest_hw_1\task_E.cpp.obj -c "C:\Users\Felix Isaakyan\CLionProjects\untitled\yandex_contest_hw_1\task_E.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\Felix Isaakyan\Documents\GitHub\HSE_ML_and_DIS_cpp_homework\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/untitled.dir/yandex_contest_hw_1/task_E.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\yandex_contest_hw_1\task_E.cpp.obj -c "C:\Users\Felix Isaakyan\Documents\GitHub\HSE_ML_and_DIS_cpp_homework\yandex_contest_hw_1\task_E.cpp"
 
 CMakeFiles/untitled.dir/yandex_contest_hw_1/task_E.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/yandex_contest_hw_1/task_E.cpp.i"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Felix Isaakyan\CLionProjects\untitled\yandex_contest_hw_1\task_E.cpp" > CMakeFiles\untitled.dir\yandex_contest_hw_1\task_E.cpp.i
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Felix Isaakyan\Documents\GitHub\HSE_ML_and_DIS_cpp_homework\yandex_contest_hw_1\task_E.cpp" > CMakeFiles\untitled.dir\yandex_contest_hw_1\task_E.cpp.i
 
 CMakeFiles/untitled.dir/yandex_contest_hw_1/task_E.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/yandex_contest_hw_1/task_E.cpp.s"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\Felix Isaakyan\CLionProjects\untitled\yandex_contest_hw_1\task_E.cpp" -o CMakeFiles\untitled.dir\yandex_contest_hw_1\task_E.cpp.s
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\Felix Isaakyan\Documents\GitHub\HSE_ML_and_DIS_cpp_homework\yandex_contest_hw_1\task_E.cpp" -o CMakeFiles\untitled.dir\yandex_contest_hw_1\task_E.cpp.s
 
 CMakeFiles/untitled.dir/yandex_contest_hw_1/task_F.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/yandex_contest_hw_1/task_F.cpp.obj: ../yandex_contest_hw_1/task_F.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\Felix Isaakyan\CLionProjects\untitled\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/untitled.dir/yandex_contest_hw_1/task_F.cpp.obj"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\yandex_contest_hw_1\task_F.cpp.obj -c "C:\Users\Felix Isaakyan\CLionProjects\untitled\yandex_contest_hw_1\task_F.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\Felix Isaakyan\Documents\GitHub\HSE_ML_and_DIS_cpp_homework\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/untitled.dir/yandex_contest_hw_1/task_F.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\yandex_contest_hw_1\task_F.cpp.obj -c "C:\Users\Felix Isaakyan\Documents\GitHub\HSE_ML_and_DIS_cpp_homework\yandex_contest_hw_1\task_F.cpp"
 
 CMakeFiles/untitled.dir/yandex_contest_hw_1/task_F.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/yandex_contest_hw_1/task_F.cpp.i"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Felix Isaakyan\CLionProjects\untitled\yandex_contest_hw_1\task_F.cpp" > CMakeFiles\untitled.dir\yandex_contest_hw_1\task_F.cpp.i
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Felix Isaakyan\Documents\GitHub\HSE_ML_and_DIS_cpp_homework\yandex_contest_hw_1\task_F.cpp" > CMakeFiles\untitled.dir\yandex_contest_hw_1\task_F.cpp.i
 
 CMakeFiles/untitled.dir/yandex_contest_hw_1/task_F.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/yandex_contest_hw_1/task_F.cpp.s"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\Felix Isaakyan\CLionProjects\untitled\yandex_contest_hw_1\task_F.cpp" -o CMakeFiles\untitled.dir\yandex_contest_hw_1\task_F.cpp.s
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\Felix Isaakyan\Documents\GitHub\HSE_ML_and_DIS_cpp_homework\yandex_contest_hw_1\task_F.cpp" -o CMakeFiles\untitled.dir\yandex_contest_hw_1\task_F.cpp.s
 
 CMakeFiles/untitled.dir/yandex_contest_hw_1/task_B_v2.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/yandex_contest_hw_1/task_B_v2.cpp.obj: ../yandex_contest_hw_1/task_B_v2.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\Felix Isaakyan\CLionProjects\untitled\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/untitled.dir/yandex_contest_hw_1/task_B_v2.cpp.obj"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\yandex_contest_hw_1\task_B_v2.cpp.obj -c "C:\Users\Felix Isaakyan\CLionProjects\untitled\yandex_contest_hw_1\task_B_v2.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\Felix Isaakyan\Documents\GitHub\HSE_ML_and_DIS_cpp_homework\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/untitled.dir/yandex_contest_hw_1/task_B_v2.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\yandex_contest_hw_1\task_B_v2.cpp.obj -c "C:\Users\Felix Isaakyan\Documents\GitHub\HSE_ML_and_DIS_cpp_homework\yandex_contest_hw_1\task_B_v2.cpp"
 
 CMakeFiles/untitled.dir/yandex_contest_hw_1/task_B_v2.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/yandex_contest_hw_1/task_B_v2.cpp.i"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Felix Isaakyan\CLionProjects\untitled\yandex_contest_hw_1\task_B_v2.cpp" > CMakeFiles\untitled.dir\yandex_contest_hw_1\task_B_v2.cpp.i
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Felix Isaakyan\Documents\GitHub\HSE_ML_and_DIS_cpp_homework\yandex_contest_hw_1\task_B_v2.cpp" > CMakeFiles\untitled.dir\yandex_contest_hw_1\task_B_v2.cpp.i
 
 CMakeFiles/untitled.dir/yandex_contest_hw_1/task_B_v2.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/yandex_contest_hw_1/task_B_v2.cpp.s"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\Felix Isaakyan\CLionProjects\untitled\yandex_contest_hw_1\task_B_v2.cpp" -o CMakeFiles\untitled.dir\yandex_contest_hw_1\task_B_v2.cpp.s
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\Felix Isaakyan\Documents\GitHub\HSE_ML_and_DIS_cpp_homework\yandex_contest_hw_1\task_B_v2.cpp" -o CMakeFiles\untitled.dir\yandex_contest_hw_1\task_B_v2.cpp.s
 
 CMakeFiles/untitled.dir/yandex_contest_hw_1/task_D.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/yandex_contest_hw_1/task_D.cpp.obj: ../yandex_contest_hw_1/task_D.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\Felix Isaakyan\CLionProjects\untitled\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/untitled.dir/yandex_contest_hw_1/task_D.cpp.obj"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\yandex_contest_hw_1\task_D.cpp.obj -c "C:\Users\Felix Isaakyan\CLionProjects\untitled\yandex_contest_hw_1\task_D.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\Felix Isaakyan\Documents\GitHub\HSE_ML_and_DIS_cpp_homework\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/untitled.dir/yandex_contest_hw_1/task_D.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\yandex_contest_hw_1\task_D.cpp.obj -c "C:\Users\Felix Isaakyan\Documents\GitHub\HSE_ML_and_DIS_cpp_homework\yandex_contest_hw_1\task_D.cpp"
 
 CMakeFiles/untitled.dir/yandex_contest_hw_1/task_D.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/yandex_contest_hw_1/task_D.cpp.i"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Felix Isaakyan\CLionProjects\untitled\yandex_contest_hw_1\task_D.cpp" > CMakeFiles\untitled.dir\yandex_contest_hw_1\task_D.cpp.i
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Felix Isaakyan\Documents\GitHub\HSE_ML_and_DIS_cpp_homework\yandex_contest_hw_1\task_D.cpp" > CMakeFiles\untitled.dir\yandex_contest_hw_1\task_D.cpp.i
 
 CMakeFiles/untitled.dir/yandex_contest_hw_1/task_D.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/yandex_contest_hw_1/task_D.cpp.s"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\Felix Isaakyan\CLionProjects\untitled\yandex_contest_hw_1\task_D.cpp" -o CMakeFiles\untitled.dir\yandex_contest_hw_1\task_D.cpp.s
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\Felix Isaakyan\Documents\GitHub\HSE_ML_and_DIS_cpp_homework\yandex_contest_hw_1\task_D.cpp" -o CMakeFiles\untitled.dir\yandex_contest_hw_1\task_D.cpp.s
 
 CMakeFiles/untitled.dir/yandex_contest_hw_1/task_H.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/yandex_contest_hw_1/task_H.cpp.obj: ../yandex_contest_hw_1/task_H.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\Felix Isaakyan\CLionProjects\untitled\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/untitled.dir/yandex_contest_hw_1/task_H.cpp.obj"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\yandex_contest_hw_1\task_H.cpp.obj -c "C:\Users\Felix Isaakyan\CLionProjects\untitled\yandex_contest_hw_1\task_H.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\Felix Isaakyan\Documents\GitHub\HSE_ML_and_DIS_cpp_homework\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/untitled.dir/yandex_contest_hw_1/task_H.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\yandex_contest_hw_1\task_H.cpp.obj -c "C:\Users\Felix Isaakyan\Documents\GitHub\HSE_ML_and_DIS_cpp_homework\yandex_contest_hw_1\task_H.cpp"
 
 CMakeFiles/untitled.dir/yandex_contest_hw_1/task_H.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/yandex_contest_hw_1/task_H.cpp.i"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Felix Isaakyan\CLionProjects\untitled\yandex_contest_hw_1\task_H.cpp" > CMakeFiles\untitled.dir\yandex_contest_hw_1\task_H.cpp.i
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Felix Isaakyan\Documents\GitHub\HSE_ML_and_DIS_cpp_homework\yandex_contest_hw_1\task_H.cpp" > CMakeFiles\untitled.dir\yandex_contest_hw_1\task_H.cpp.i
 
 CMakeFiles/untitled.dir/yandex_contest_hw_1/task_H.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/yandex_contest_hw_1/task_H.cpp.s"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\Felix Isaakyan\CLionProjects\untitled\yandex_contest_hw_1\task_H.cpp" -o CMakeFiles\untitled.dir\yandex_contest_hw_1\task_H.cpp.s
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\Felix Isaakyan\Documents\GitHub\HSE_ML_and_DIS_cpp_homework\yandex_contest_hw_1\task_H.cpp" -o CMakeFiles\untitled.dir\yandex_contest_hw_1\task_H.cpp.s
 
 CMakeFiles/untitled.dir/yandex_contest_hw_1/task_I.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/yandex_contest_hw_1/task_I.cpp.obj: ../yandex_contest_hw_1/task_I.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\Felix Isaakyan\CLionProjects\untitled\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/untitled.dir/yandex_contest_hw_1/task_I.cpp.obj"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\yandex_contest_hw_1\task_I.cpp.obj -c "C:\Users\Felix Isaakyan\CLionProjects\untitled\yandex_contest_hw_1\task_I.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\Felix Isaakyan\Documents\GitHub\HSE_ML_and_DIS_cpp_homework\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/untitled.dir/yandex_contest_hw_1/task_I.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\yandex_contest_hw_1\task_I.cpp.obj -c "C:\Users\Felix Isaakyan\Documents\GitHub\HSE_ML_and_DIS_cpp_homework\yandex_contest_hw_1\task_I.cpp"
 
 CMakeFiles/untitled.dir/yandex_contest_hw_1/task_I.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/yandex_contest_hw_1/task_I.cpp.i"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Felix Isaakyan\CLionProjects\untitled\yandex_contest_hw_1\task_I.cpp" > CMakeFiles\untitled.dir\yandex_contest_hw_1\task_I.cpp.i
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Felix Isaakyan\Documents\GitHub\HSE_ML_and_DIS_cpp_homework\yandex_contest_hw_1\task_I.cpp" > CMakeFiles\untitled.dir\yandex_contest_hw_1\task_I.cpp.i
 
 CMakeFiles/untitled.dir/yandex_contest_hw_1/task_I.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/yandex_contest_hw_1/task_I.cpp.s"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\Felix Isaakyan\CLionProjects\untitled\yandex_contest_hw_1\task_I.cpp" -o CMakeFiles\untitled.dir\yandex_contest_hw_1\task_I.cpp.s
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\Felix Isaakyan\Documents\GitHub\HSE_ML_and_DIS_cpp_homework\yandex_contest_hw_1\task_I.cpp" -o CMakeFiles\untitled.dir\yandex_contest_hw_1\task_I.cpp.s
 
 CMakeFiles/untitled.dir/yandex_contest_hw_1/task_J.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/yandex_contest_hw_1/task_J.cpp.obj: ../yandex_contest_hw_1/task_J.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\Felix Isaakyan\CLionProjects\untitled\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/untitled.dir/yandex_contest_hw_1/task_J.cpp.obj"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\yandex_contest_hw_1\task_J.cpp.obj -c "C:\Users\Felix Isaakyan\CLionProjects\untitled\yandex_contest_hw_1\task_J.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\Felix Isaakyan\Documents\GitHub\HSE_ML_and_DIS_cpp_homework\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/untitled.dir/yandex_contest_hw_1/task_J.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\yandex_contest_hw_1\task_J.cpp.obj -c "C:\Users\Felix Isaakyan\Documents\GitHub\HSE_ML_and_DIS_cpp_homework\yandex_contest_hw_1\task_J.cpp"
 
 CMakeFiles/untitled.dir/yandex_contest_hw_1/task_J.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/yandex_contest_hw_1/task_J.cpp.i"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Felix Isaakyan\CLionProjects\untitled\yandex_contest_hw_1\task_J.cpp" > CMakeFiles\untitled.dir\yandex_contest_hw_1\task_J.cpp.i
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Felix Isaakyan\Documents\GitHub\HSE_ML_and_DIS_cpp_homework\yandex_contest_hw_1\task_J.cpp" > CMakeFiles\untitled.dir\yandex_contest_hw_1\task_J.cpp.i
 
 CMakeFiles/untitled.dir/yandex_contest_hw_1/task_J.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/yandex_contest_hw_1/task_J.cpp.s"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\Felix Isaakyan\CLionProjects\untitled\yandex_contest_hw_1\task_J.cpp" -o CMakeFiles\untitled.dir\yandex_contest_hw_1\task_J.cpp.s
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\Felix Isaakyan\Documents\GitHub\HSE_ML_and_DIS_cpp_homework\yandex_contest_hw_1\task_J.cpp" -o CMakeFiles\untitled.dir\yandex_contest_hw_1\task_J.cpp.s
 
 CMakeFiles/untitled.dir/yandex_contest_hw_1/task_G.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/yandex_contest_hw_1/task_G.cpp.obj: ../yandex_contest_hw_1/task_G.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\Felix Isaakyan\CLionProjects\untitled\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/untitled.dir/yandex_contest_hw_1/task_G.cpp.obj"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\yandex_contest_hw_1\task_G.cpp.obj -c "C:\Users\Felix Isaakyan\CLionProjects\untitled\yandex_contest_hw_1\task_G.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\Felix Isaakyan\Documents\GitHub\HSE_ML_and_DIS_cpp_homework\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/untitled.dir/yandex_contest_hw_1/task_G.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\yandex_contest_hw_1\task_G.cpp.obj -c "C:\Users\Felix Isaakyan\Documents\GitHub\HSE_ML_and_DIS_cpp_homework\yandex_contest_hw_1\task_G.cpp"
 
 CMakeFiles/untitled.dir/yandex_contest_hw_1/task_G.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/yandex_contest_hw_1/task_G.cpp.i"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Felix Isaakyan\CLionProjects\untitled\yandex_contest_hw_1\task_G.cpp" > CMakeFiles\untitled.dir\yandex_contest_hw_1\task_G.cpp.i
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Felix Isaakyan\Documents\GitHub\HSE_ML_and_DIS_cpp_homework\yandex_contest_hw_1\task_G.cpp" > CMakeFiles\untitled.dir\yandex_contest_hw_1\task_G.cpp.i
 
 CMakeFiles/untitled.dir/yandex_contest_hw_1/task_G.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/yandex_contest_hw_1/task_G.cpp.s"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\Felix Isaakyan\CLionProjects\untitled\yandex_contest_hw_1\task_G.cpp" -o CMakeFiles\untitled.dir\yandex_contest_hw_1\task_G.cpp.s
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\Felix Isaakyan\Documents\GitHub\HSE_ML_and_DIS_cpp_homework\yandex_contest_hw_1\task_G.cpp" -o CMakeFiles\untitled.dir\yandex_contest_hw_1\task_G.cpp.s
 
-CMakeFiles/untitled.dir/yandex_contest_hw_1/tmp_test.cpp.obj: CMakeFiles/untitled.dir/flags.make
-CMakeFiles/untitled.dir/yandex_contest_hw_1/tmp_test.cpp.obj: ../yandex_contest_hw_1/tmp_test.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\Felix Isaakyan\CLionProjects\untitled\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/untitled.dir/yandex_contest_hw_1/tmp_test.cpp.obj"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\yandex_contest_hw_1\tmp_test.cpp.obj -c "C:\Users\Felix Isaakyan\CLionProjects\untitled\yandex_contest_hw_1\tmp_test.cpp"
+CMakeFiles/untitled.dir/yandex_contest_hw_2/task_2A.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/yandex_contest_hw_2/task_2A.cpp.obj: ../yandex_contest_hw_2/task_2A.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\Felix Isaakyan\Documents\GitHub\HSE_ML_and_DIS_cpp_homework\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/untitled.dir/yandex_contest_hw_2/task_2A.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\yandex_contest_hw_2\task_2A.cpp.obj -c "C:\Users\Felix Isaakyan\Documents\GitHub\HSE_ML_and_DIS_cpp_homework\yandex_contest_hw_2\task_2A.cpp"
 
-CMakeFiles/untitled.dir/yandex_contest_hw_1/tmp_test.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/yandex_contest_hw_1/tmp_test.cpp.i"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Felix Isaakyan\CLionProjects\untitled\yandex_contest_hw_1\tmp_test.cpp" > CMakeFiles\untitled.dir\yandex_contest_hw_1\tmp_test.cpp.i
+CMakeFiles/untitled.dir/yandex_contest_hw_2/task_2A.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/yandex_contest_hw_2/task_2A.cpp.i"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Felix Isaakyan\Documents\GitHub\HSE_ML_and_DIS_cpp_homework\yandex_contest_hw_2\task_2A.cpp" > CMakeFiles\untitled.dir\yandex_contest_hw_2\task_2A.cpp.i
 
-CMakeFiles/untitled.dir/yandex_contest_hw_1/tmp_test.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/yandex_contest_hw_1/tmp_test.cpp.s"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\Felix Isaakyan\CLionProjects\untitled\yandex_contest_hw_1\tmp_test.cpp" -o CMakeFiles\untitled.dir\yandex_contest_hw_1\tmp_test.cpp.s
+CMakeFiles/untitled.dir/yandex_contest_hw_2/task_2A.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/yandex_contest_hw_2/task_2A.cpp.s"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\Felix Isaakyan\Documents\GitHub\HSE_ML_and_DIS_cpp_homework\yandex_contest_hw_2\task_2A.cpp" -o CMakeFiles\untitled.dir\yandex_contest_hw_2\task_2A.cpp.s
+
+CMakeFiles/untitled.dir/yandex_contest_hw_2/task_2B.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/yandex_contest_hw_2/task_2B.cpp.obj: ../yandex_contest_hw_2/task_2B.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\Felix Isaakyan\Documents\GitHub\HSE_ML_and_DIS_cpp_homework\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object CMakeFiles/untitled.dir/yandex_contest_hw_2/task_2B.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\yandex_contest_hw_2\task_2B.cpp.obj -c "C:\Users\Felix Isaakyan\Documents\GitHub\HSE_ML_and_DIS_cpp_homework\yandex_contest_hw_2\task_2B.cpp"
+
+CMakeFiles/untitled.dir/yandex_contest_hw_2/task_2B.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/yandex_contest_hw_2/task_2B.cpp.i"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Felix Isaakyan\Documents\GitHub\HSE_ML_and_DIS_cpp_homework\yandex_contest_hw_2\task_2B.cpp" > CMakeFiles\untitled.dir\yandex_contest_hw_2\task_2B.cpp.i
+
+CMakeFiles/untitled.dir/yandex_contest_hw_2/task_2B.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/yandex_contest_hw_2/task_2B.cpp.s"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\Felix Isaakyan\Documents\GitHub\HSE_ML_and_DIS_cpp_homework\yandex_contest_hw_2\task_2B.cpp" -o CMakeFiles\untitled.dir\yandex_contest_hw_2\task_2B.cpp.s
+
+CMakeFiles/untitled.dir/yandex_contest_hw_2/task_2C.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/yandex_contest_hw_2/task_2C.cpp.obj: ../yandex_contest_hw_2/task_2C.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\Felix Isaakyan\Documents\GitHub\HSE_ML_and_DIS_cpp_homework\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object CMakeFiles/untitled.dir/yandex_contest_hw_2/task_2C.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\yandex_contest_hw_2\task_2C.cpp.obj -c "C:\Users\Felix Isaakyan\Documents\GitHub\HSE_ML_and_DIS_cpp_homework\yandex_contest_hw_2\task_2C.cpp"
+
+CMakeFiles/untitled.dir/yandex_contest_hw_2/task_2C.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/yandex_contest_hw_2/task_2C.cpp.i"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Felix Isaakyan\Documents\GitHub\HSE_ML_and_DIS_cpp_homework\yandex_contest_hw_2\task_2C.cpp" > CMakeFiles\untitled.dir\yandex_contest_hw_2\task_2C.cpp.i
+
+CMakeFiles/untitled.dir/yandex_contest_hw_2/task_2C.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/yandex_contest_hw_2/task_2C.cpp.s"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\Felix Isaakyan\Documents\GitHub\HSE_ML_and_DIS_cpp_homework\yandex_contest_hw_2\task_2C.cpp" -o CMakeFiles\untitled.dir\yandex_contest_hw_2\task_2C.cpp.s
+
+CMakeFiles/untitled.dir/yandex_contest_hw_2/task_2D.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/yandex_contest_hw_2/task_2D.cpp.obj: ../yandex_contest_hw_2/task_2D.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\Felix Isaakyan\Documents\GitHub\HSE_ML_and_DIS_cpp_homework\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_15) "Building CXX object CMakeFiles/untitled.dir/yandex_contest_hw_2/task_2D.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\yandex_contest_hw_2\task_2D.cpp.obj -c "C:\Users\Felix Isaakyan\Documents\GitHub\HSE_ML_and_DIS_cpp_homework\yandex_contest_hw_2\task_2D.cpp"
+
+CMakeFiles/untitled.dir/yandex_contest_hw_2/task_2D.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/yandex_contest_hw_2/task_2D.cpp.i"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Felix Isaakyan\Documents\GitHub\HSE_ML_and_DIS_cpp_homework\yandex_contest_hw_2\task_2D.cpp" > CMakeFiles\untitled.dir\yandex_contest_hw_2\task_2D.cpp.i
+
+CMakeFiles/untitled.dir/yandex_contest_hw_2/task_2D.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/yandex_contest_hw_2/task_2D.cpp.s"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\Felix Isaakyan\Documents\GitHub\HSE_ML_and_DIS_cpp_homework\yandex_contest_hw_2\task_2D.cpp" -o CMakeFiles\untitled.dir\yandex_contest_hw_2\task_2D.cpp.s
+
+CMakeFiles/untitled.dir/yandex_contest_hw_2/task_2E.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/yandex_contest_hw_2/task_2E.cpp.obj: ../yandex_contest_hw_2/task_2E.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\Felix Isaakyan\Documents\GitHub\HSE_ML_and_DIS_cpp_homework\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_16) "Building CXX object CMakeFiles/untitled.dir/yandex_contest_hw_2/task_2E.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\yandex_contest_hw_2\task_2E.cpp.obj -c "C:\Users\Felix Isaakyan\Documents\GitHub\HSE_ML_and_DIS_cpp_homework\yandex_contest_hw_2\task_2E.cpp"
+
+CMakeFiles/untitled.dir/yandex_contest_hw_2/task_2E.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/yandex_contest_hw_2/task_2E.cpp.i"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Felix Isaakyan\Documents\GitHub\HSE_ML_and_DIS_cpp_homework\yandex_contest_hw_2\task_2E.cpp" > CMakeFiles\untitled.dir\yandex_contest_hw_2\task_2E.cpp.i
+
+CMakeFiles/untitled.dir/yandex_contest_hw_2/task_2E.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/yandex_contest_hw_2/task_2E.cpp.s"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\Felix Isaakyan\Documents\GitHub\HSE_ML_and_DIS_cpp_homework\yandex_contest_hw_2\task_2E.cpp" -o CMakeFiles\untitled.dir\yandex_contest_hw_2\task_2E.cpp.s
+
+CMakeFiles/untitled.dir/yandex_contest_hw_2/task_2G.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/yandex_contest_hw_2/task_2G.cpp.obj: ../yandex_contest_hw_2/task_2G.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\Felix Isaakyan\Documents\GitHub\HSE_ML_and_DIS_cpp_homework\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_17) "Building CXX object CMakeFiles/untitled.dir/yandex_contest_hw_2/task_2G.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\yandex_contest_hw_2\task_2G.cpp.obj -c "C:\Users\Felix Isaakyan\Documents\GitHub\HSE_ML_and_DIS_cpp_homework\yandex_contest_hw_2\task_2G.cpp"
+
+CMakeFiles/untitled.dir/yandex_contest_hw_2/task_2G.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/yandex_contest_hw_2/task_2G.cpp.i"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Felix Isaakyan\Documents\GitHub\HSE_ML_and_DIS_cpp_homework\yandex_contest_hw_2\task_2G.cpp" > CMakeFiles\untitled.dir\yandex_contest_hw_2\task_2G.cpp.i
+
+CMakeFiles/untitled.dir/yandex_contest_hw_2/task_2G.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/yandex_contest_hw_2/task_2G.cpp.s"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\Felix Isaakyan\Documents\GitHub\HSE_ML_and_DIS_cpp_homework\yandex_contest_hw_2\task_2G.cpp" -o CMakeFiles\untitled.dir\yandex_contest_hw_2\task_2G.cpp.s
+
+CMakeFiles/untitled.dir/yandex_contest_hw_2/task_2F.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/yandex_contest_hw_2/task_2F.cpp.obj: ../yandex_contest_hw_2/task_2F.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\Felix Isaakyan\Documents\GitHub\HSE_ML_and_DIS_cpp_homework\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_18) "Building CXX object CMakeFiles/untitled.dir/yandex_contest_hw_2/task_2F.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\yandex_contest_hw_2\task_2F.cpp.obj -c "C:\Users\Felix Isaakyan\Documents\GitHub\HSE_ML_and_DIS_cpp_homework\yandex_contest_hw_2\task_2F.cpp"
+
+CMakeFiles/untitled.dir/yandex_contest_hw_2/task_2F.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/yandex_contest_hw_2/task_2F.cpp.i"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Felix Isaakyan\Documents\GitHub\HSE_ML_and_DIS_cpp_homework\yandex_contest_hw_2\task_2F.cpp" > CMakeFiles\untitled.dir\yandex_contest_hw_2\task_2F.cpp.i
+
+CMakeFiles/untitled.dir/yandex_contest_hw_2/task_2F.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/yandex_contest_hw_2/task_2F.cpp.s"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\Felix Isaakyan\Documents\GitHub\HSE_ML_and_DIS_cpp_homework\yandex_contest_hw_2\task_2F.cpp" -o CMakeFiles\untitled.dir\yandex_contest_hw_2\task_2F.cpp.s
+
+CMakeFiles/untitled.dir/yandex_contest_hw_2/task_2H.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/yandex_contest_hw_2/task_2H.cpp.obj: ../yandex_contest_hw_2/task_2H.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\Felix Isaakyan\Documents\GitHub\HSE_ML_and_DIS_cpp_homework\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_19) "Building CXX object CMakeFiles/untitled.dir/yandex_contest_hw_2/task_2H.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\yandex_contest_hw_2\task_2H.cpp.obj -c "C:\Users\Felix Isaakyan\Documents\GitHub\HSE_ML_and_DIS_cpp_homework\yandex_contest_hw_2\task_2H.cpp"
+
+CMakeFiles/untitled.dir/yandex_contest_hw_2/task_2H.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/yandex_contest_hw_2/task_2H.cpp.i"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Felix Isaakyan\Documents\GitHub\HSE_ML_and_DIS_cpp_homework\yandex_contest_hw_2\task_2H.cpp" > CMakeFiles\untitled.dir\yandex_contest_hw_2\task_2H.cpp.i
+
+CMakeFiles/untitled.dir/yandex_contest_hw_2/task_2H.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/yandex_contest_hw_2/task_2H.cpp.s"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\Felix Isaakyan\Documents\GitHub\HSE_ML_and_DIS_cpp_homework\yandex_contest_hw_2\task_2H.cpp" -o CMakeFiles\untitled.dir\yandex_contest_hw_2\task_2H.cpp.s
+
+CMakeFiles/untitled.dir/yandex_contest_hw_2/task_2I.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/yandex_contest_hw_2/task_2I.cpp.obj: ../yandex_contest_hw_2/task_2I.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\Felix Isaakyan\Documents\GitHub\HSE_ML_and_DIS_cpp_homework\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_20) "Building CXX object CMakeFiles/untitled.dir/yandex_contest_hw_2/task_2I.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\yandex_contest_hw_2\task_2I.cpp.obj -c "C:\Users\Felix Isaakyan\Documents\GitHub\HSE_ML_and_DIS_cpp_homework\yandex_contest_hw_2\task_2I.cpp"
+
+CMakeFiles/untitled.dir/yandex_contest_hw_2/task_2I.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/yandex_contest_hw_2/task_2I.cpp.i"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Felix Isaakyan\Documents\GitHub\HSE_ML_and_DIS_cpp_homework\yandex_contest_hw_2\task_2I.cpp" > CMakeFiles\untitled.dir\yandex_contest_hw_2\task_2I.cpp.i
+
+CMakeFiles/untitled.dir/yandex_contest_hw_2/task_2I.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/yandex_contest_hw_2/task_2I.cpp.s"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\Felix Isaakyan\Documents\GitHub\HSE_ML_and_DIS_cpp_homework\yandex_contest_hw_2\task_2I.cpp" -o CMakeFiles\untitled.dir\yandex_contest_hw_2\task_2I.cpp.s
+
+CMakeFiles/untitled.dir/yandex_contest_hw_2/task_2J.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/yandex_contest_hw_2/task_2J.cpp.obj: ../yandex_contest_hw_2/task_2J.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\Felix Isaakyan\Documents\GitHub\HSE_ML_and_DIS_cpp_homework\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_21) "Building CXX object CMakeFiles/untitled.dir/yandex_contest_hw_2/task_2J.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\yandex_contest_hw_2\task_2J.cpp.obj -c "C:\Users\Felix Isaakyan\Documents\GitHub\HSE_ML_and_DIS_cpp_homework\yandex_contest_hw_2\task_2J.cpp"
+
+CMakeFiles/untitled.dir/yandex_contest_hw_2/task_2J.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/yandex_contest_hw_2/task_2J.cpp.i"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Felix Isaakyan\Documents\GitHub\HSE_ML_and_DIS_cpp_homework\yandex_contest_hw_2\task_2J.cpp" > CMakeFiles\untitled.dir\yandex_contest_hw_2\task_2J.cpp.i
+
+CMakeFiles/untitled.dir/yandex_contest_hw_2/task_2J.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/yandex_contest_hw_2/task_2J.cpp.s"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\Felix Isaakyan\Documents\GitHub\HSE_ML_and_DIS_cpp_homework\yandex_contest_hw_2\task_2J.cpp" -o CMakeFiles\untitled.dir\yandex_contest_hw_2\task_2J.cpp.s
 
 # Object files for target untitled
 untitled_OBJECTS = \
@@ -234,7 +351,16 @@ untitled_OBJECTS = \
 "CMakeFiles/untitled.dir/yandex_contest_hw_1/task_I.cpp.obj" \
 "CMakeFiles/untitled.dir/yandex_contest_hw_1/task_J.cpp.obj" \
 "CMakeFiles/untitled.dir/yandex_contest_hw_1/task_G.cpp.obj" \
-"CMakeFiles/untitled.dir/yandex_contest_hw_1/tmp_test.cpp.obj"
+"CMakeFiles/untitled.dir/yandex_contest_hw_2/task_2A.cpp.obj" \
+"CMakeFiles/untitled.dir/yandex_contest_hw_2/task_2B.cpp.obj" \
+"CMakeFiles/untitled.dir/yandex_contest_hw_2/task_2C.cpp.obj" \
+"CMakeFiles/untitled.dir/yandex_contest_hw_2/task_2D.cpp.obj" \
+"CMakeFiles/untitled.dir/yandex_contest_hw_2/task_2E.cpp.obj" \
+"CMakeFiles/untitled.dir/yandex_contest_hw_2/task_2G.cpp.obj" \
+"CMakeFiles/untitled.dir/yandex_contest_hw_2/task_2F.cpp.obj" \
+"CMakeFiles/untitled.dir/yandex_contest_hw_2/task_2H.cpp.obj" \
+"CMakeFiles/untitled.dir/yandex_contest_hw_2/task_2I.cpp.obj" \
+"CMakeFiles/untitled.dir/yandex_contest_hw_2/task_2J.cpp.obj"
 
 # External object files for target untitled
 untitled_EXTERNAL_OBJECTS =
@@ -250,12 +376,21 @@ untitled.exe: CMakeFiles/untitled.dir/yandex_contest_hw_1/task_H.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/yandex_contest_hw_1/task_I.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/yandex_contest_hw_1/task_J.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/yandex_contest_hw_1/task_G.cpp.obj
-untitled.exe: CMakeFiles/untitled.dir/yandex_contest_hw_1/tmp_test.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/yandex_contest_hw_2/task_2A.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/yandex_contest_hw_2/task_2B.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/yandex_contest_hw_2/task_2C.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/yandex_contest_hw_2/task_2D.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/yandex_contest_hw_2/task_2E.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/yandex_contest_hw_2/task_2G.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/yandex_contest_hw_2/task_2F.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/yandex_contest_hw_2/task_2H.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/yandex_contest_hw_2/task_2I.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/yandex_contest_hw_2/task_2J.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/build.make
 untitled.exe: CMakeFiles/untitled.dir/linklibs.rsp
 untitled.exe: CMakeFiles/untitled.dir/objects1.rsp
 untitled.exe: CMakeFiles/untitled.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="C:\Users\Felix Isaakyan\CLionProjects\untitled\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_13) "Linking CXX executable untitled.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="C:\Users\Felix Isaakyan\Documents\GitHub\HSE_ML_and_DIS_cpp_homework\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_22) "Linking CXX executable untitled.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\untitled.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -267,6 +402,6 @@ CMakeFiles/untitled.dir/clean:
 .PHONY : CMakeFiles/untitled.dir/clean
 
 CMakeFiles/untitled.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" "C:\Users\Felix Isaakyan\CLionProjects\untitled" "C:\Users\Felix Isaakyan\CLionProjects\untitled" "C:\Users\Felix Isaakyan\CLionProjects\untitled\cmake-build-debug" "C:\Users\Felix Isaakyan\CLionProjects\untitled\cmake-build-debug" "C:\Users\Felix Isaakyan\CLionProjects\untitled\cmake-build-debug\CMakeFiles\untitled.dir\DependInfo.cmake" --color=$(COLOR)
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" "C:\Users\Felix Isaakyan\Documents\GitHub\HSE_ML_and_DIS_cpp_homework" "C:\Users\Felix Isaakyan\Documents\GitHub\HSE_ML_and_DIS_cpp_homework" "C:\Users\Felix Isaakyan\Documents\GitHub\HSE_ML_and_DIS_cpp_homework\cmake-build-debug" "C:\Users\Felix Isaakyan\Documents\GitHub\HSE_ML_and_DIS_cpp_homework\cmake-build-debug" "C:\Users\Felix Isaakyan\Documents\GitHub\HSE_ML_and_DIS_cpp_homework\cmake-build-debug\CMakeFiles\untitled.dir\DependInfo.cmake" --color=$(COLOR)
 .PHONY : CMakeFiles/untitled.dir/depend
 

@@ -56,10 +56,10 @@ RM = "C:\Program Files\JetBrains\CLion 2021.2.1\bin\cmake\win\bin\cmake.exe" -E 
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "C:\Users\Felix Isaakyan\CLionProjects\untitled"
+CMAKE_SOURCE_DIR = "C:\Users\Felix Isaakyan\Documents\GitHub\HSE_ML_and_DIS_cpp_homework"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "C:\Users\Felix Isaakyan\CLionProjects\untitled\cmake-build-debug"
+CMAKE_BINARY_DIR = "C:\Users\Felix Isaakyan\Documents\GitHub\HSE_ML_and_DIS_cpp_homework\cmake-build-debug"
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -86,9 +86,9 @@ rebuild_cache/fast: rebuild_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "C:\Users\Felix Isaakyan\CLionProjects\untitled\cmake-build-debug\CMakeFiles" "C:\Users\Felix Isaakyan\CLionProjects\untitled\cmake-build-debug\\CMakeFiles\progress.marks"
+	$(CMAKE_COMMAND) -E cmake_progress_start "C:\Users\Felix Isaakyan\Documents\GitHub\HSE_ML_and_DIS_cpp_homework\cmake-build-debug\CMakeFiles" "C:\Users\Felix Isaakyan\Documents\GitHub\HSE_ML_and_DIS_cpp_homework\cmake-build-debug\\CMakeFiles\progress.marks"
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start "C:\Users\Felix Isaakyan\CLionProjects\untitled\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "C:\Users\Felix Isaakyan\Documents\GitHub\HSE_ML_and_DIS_cpp_homework\cmake-build-debug\CMakeFiles" 0
 .PHONY : all
 
 # The main clean target
@@ -392,29 +392,245 @@ yandex_contest_hw_1/task_J.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/yandex_contest_hw_1/task_J.cpp.s
 .PHONY : yandex_contest_hw_1/task_J.cpp.s
 
-yandex_contest_hw_1/tmp_test.obj: yandex_contest_hw_1/tmp_test.cpp.obj
-.PHONY : yandex_contest_hw_1/tmp_test.obj
+yandex_contest_hw_2/task_2A.obj: yandex_contest_hw_2/task_2A.cpp.obj
+.PHONY : yandex_contest_hw_2/task_2A.obj
 
 # target to build an object file
-yandex_contest_hw_1/tmp_test.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/yandex_contest_hw_1/tmp_test.cpp.obj
-.PHONY : yandex_contest_hw_1/tmp_test.cpp.obj
+yandex_contest_hw_2/task_2A.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/yandex_contest_hw_2/task_2A.cpp.obj
+.PHONY : yandex_contest_hw_2/task_2A.cpp.obj
 
-yandex_contest_hw_1/tmp_test.i: yandex_contest_hw_1/tmp_test.cpp.i
-.PHONY : yandex_contest_hw_1/tmp_test.i
+yandex_contest_hw_2/task_2A.i: yandex_contest_hw_2/task_2A.cpp.i
+.PHONY : yandex_contest_hw_2/task_2A.i
 
 # target to preprocess a source file
-yandex_contest_hw_1/tmp_test.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/yandex_contest_hw_1/tmp_test.cpp.i
-.PHONY : yandex_contest_hw_1/tmp_test.cpp.i
+yandex_contest_hw_2/task_2A.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/yandex_contest_hw_2/task_2A.cpp.i
+.PHONY : yandex_contest_hw_2/task_2A.cpp.i
 
-yandex_contest_hw_1/tmp_test.s: yandex_contest_hw_1/tmp_test.cpp.s
-.PHONY : yandex_contest_hw_1/tmp_test.s
+yandex_contest_hw_2/task_2A.s: yandex_contest_hw_2/task_2A.cpp.s
+.PHONY : yandex_contest_hw_2/task_2A.s
 
 # target to generate assembly for a file
-yandex_contest_hw_1/tmp_test.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/yandex_contest_hw_1/tmp_test.cpp.s
-.PHONY : yandex_contest_hw_1/tmp_test.cpp.s
+yandex_contest_hw_2/task_2A.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/yandex_contest_hw_2/task_2A.cpp.s
+.PHONY : yandex_contest_hw_2/task_2A.cpp.s
+
+yandex_contest_hw_2/task_2B.obj: yandex_contest_hw_2/task_2B.cpp.obj
+.PHONY : yandex_contest_hw_2/task_2B.obj
+
+# target to build an object file
+yandex_contest_hw_2/task_2B.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/yandex_contest_hw_2/task_2B.cpp.obj
+.PHONY : yandex_contest_hw_2/task_2B.cpp.obj
+
+yandex_contest_hw_2/task_2B.i: yandex_contest_hw_2/task_2B.cpp.i
+.PHONY : yandex_contest_hw_2/task_2B.i
+
+# target to preprocess a source file
+yandex_contest_hw_2/task_2B.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/yandex_contest_hw_2/task_2B.cpp.i
+.PHONY : yandex_contest_hw_2/task_2B.cpp.i
+
+yandex_contest_hw_2/task_2B.s: yandex_contest_hw_2/task_2B.cpp.s
+.PHONY : yandex_contest_hw_2/task_2B.s
+
+# target to generate assembly for a file
+yandex_contest_hw_2/task_2B.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/yandex_contest_hw_2/task_2B.cpp.s
+.PHONY : yandex_contest_hw_2/task_2B.cpp.s
+
+yandex_contest_hw_2/task_2C.obj: yandex_contest_hw_2/task_2C.cpp.obj
+.PHONY : yandex_contest_hw_2/task_2C.obj
+
+# target to build an object file
+yandex_contest_hw_2/task_2C.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/yandex_contest_hw_2/task_2C.cpp.obj
+.PHONY : yandex_contest_hw_2/task_2C.cpp.obj
+
+yandex_contest_hw_2/task_2C.i: yandex_contest_hw_2/task_2C.cpp.i
+.PHONY : yandex_contest_hw_2/task_2C.i
+
+# target to preprocess a source file
+yandex_contest_hw_2/task_2C.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/yandex_contest_hw_2/task_2C.cpp.i
+.PHONY : yandex_contest_hw_2/task_2C.cpp.i
+
+yandex_contest_hw_2/task_2C.s: yandex_contest_hw_2/task_2C.cpp.s
+.PHONY : yandex_contest_hw_2/task_2C.s
+
+# target to generate assembly for a file
+yandex_contest_hw_2/task_2C.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/yandex_contest_hw_2/task_2C.cpp.s
+.PHONY : yandex_contest_hw_2/task_2C.cpp.s
+
+yandex_contest_hw_2/task_2D.obj: yandex_contest_hw_2/task_2D.cpp.obj
+.PHONY : yandex_contest_hw_2/task_2D.obj
+
+# target to build an object file
+yandex_contest_hw_2/task_2D.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/yandex_contest_hw_2/task_2D.cpp.obj
+.PHONY : yandex_contest_hw_2/task_2D.cpp.obj
+
+yandex_contest_hw_2/task_2D.i: yandex_contest_hw_2/task_2D.cpp.i
+.PHONY : yandex_contest_hw_2/task_2D.i
+
+# target to preprocess a source file
+yandex_contest_hw_2/task_2D.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/yandex_contest_hw_2/task_2D.cpp.i
+.PHONY : yandex_contest_hw_2/task_2D.cpp.i
+
+yandex_contest_hw_2/task_2D.s: yandex_contest_hw_2/task_2D.cpp.s
+.PHONY : yandex_contest_hw_2/task_2D.s
+
+# target to generate assembly for a file
+yandex_contest_hw_2/task_2D.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/yandex_contest_hw_2/task_2D.cpp.s
+.PHONY : yandex_contest_hw_2/task_2D.cpp.s
+
+yandex_contest_hw_2/task_2E.obj: yandex_contest_hw_2/task_2E.cpp.obj
+.PHONY : yandex_contest_hw_2/task_2E.obj
+
+# target to build an object file
+yandex_contest_hw_2/task_2E.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/yandex_contest_hw_2/task_2E.cpp.obj
+.PHONY : yandex_contest_hw_2/task_2E.cpp.obj
+
+yandex_contest_hw_2/task_2E.i: yandex_contest_hw_2/task_2E.cpp.i
+.PHONY : yandex_contest_hw_2/task_2E.i
+
+# target to preprocess a source file
+yandex_contest_hw_2/task_2E.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/yandex_contest_hw_2/task_2E.cpp.i
+.PHONY : yandex_contest_hw_2/task_2E.cpp.i
+
+yandex_contest_hw_2/task_2E.s: yandex_contest_hw_2/task_2E.cpp.s
+.PHONY : yandex_contest_hw_2/task_2E.s
+
+# target to generate assembly for a file
+yandex_contest_hw_2/task_2E.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/yandex_contest_hw_2/task_2E.cpp.s
+.PHONY : yandex_contest_hw_2/task_2E.cpp.s
+
+yandex_contest_hw_2/task_2F.obj: yandex_contest_hw_2/task_2F.cpp.obj
+.PHONY : yandex_contest_hw_2/task_2F.obj
+
+# target to build an object file
+yandex_contest_hw_2/task_2F.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/yandex_contest_hw_2/task_2F.cpp.obj
+.PHONY : yandex_contest_hw_2/task_2F.cpp.obj
+
+yandex_contest_hw_2/task_2F.i: yandex_contest_hw_2/task_2F.cpp.i
+.PHONY : yandex_contest_hw_2/task_2F.i
+
+# target to preprocess a source file
+yandex_contest_hw_2/task_2F.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/yandex_contest_hw_2/task_2F.cpp.i
+.PHONY : yandex_contest_hw_2/task_2F.cpp.i
+
+yandex_contest_hw_2/task_2F.s: yandex_contest_hw_2/task_2F.cpp.s
+.PHONY : yandex_contest_hw_2/task_2F.s
+
+# target to generate assembly for a file
+yandex_contest_hw_2/task_2F.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/yandex_contest_hw_2/task_2F.cpp.s
+.PHONY : yandex_contest_hw_2/task_2F.cpp.s
+
+yandex_contest_hw_2/task_2G.obj: yandex_contest_hw_2/task_2G.cpp.obj
+.PHONY : yandex_contest_hw_2/task_2G.obj
+
+# target to build an object file
+yandex_contest_hw_2/task_2G.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/yandex_contest_hw_2/task_2G.cpp.obj
+.PHONY : yandex_contest_hw_2/task_2G.cpp.obj
+
+yandex_contest_hw_2/task_2G.i: yandex_contest_hw_2/task_2G.cpp.i
+.PHONY : yandex_contest_hw_2/task_2G.i
+
+# target to preprocess a source file
+yandex_contest_hw_2/task_2G.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/yandex_contest_hw_2/task_2G.cpp.i
+.PHONY : yandex_contest_hw_2/task_2G.cpp.i
+
+yandex_contest_hw_2/task_2G.s: yandex_contest_hw_2/task_2G.cpp.s
+.PHONY : yandex_contest_hw_2/task_2G.s
+
+# target to generate assembly for a file
+yandex_contest_hw_2/task_2G.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/yandex_contest_hw_2/task_2G.cpp.s
+.PHONY : yandex_contest_hw_2/task_2G.cpp.s
+
+yandex_contest_hw_2/task_2H.obj: yandex_contest_hw_2/task_2H.cpp.obj
+.PHONY : yandex_contest_hw_2/task_2H.obj
+
+# target to build an object file
+yandex_contest_hw_2/task_2H.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/yandex_contest_hw_2/task_2H.cpp.obj
+.PHONY : yandex_contest_hw_2/task_2H.cpp.obj
+
+yandex_contest_hw_2/task_2H.i: yandex_contest_hw_2/task_2H.cpp.i
+.PHONY : yandex_contest_hw_2/task_2H.i
+
+# target to preprocess a source file
+yandex_contest_hw_2/task_2H.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/yandex_contest_hw_2/task_2H.cpp.i
+.PHONY : yandex_contest_hw_2/task_2H.cpp.i
+
+yandex_contest_hw_2/task_2H.s: yandex_contest_hw_2/task_2H.cpp.s
+.PHONY : yandex_contest_hw_2/task_2H.s
+
+# target to generate assembly for a file
+yandex_contest_hw_2/task_2H.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/yandex_contest_hw_2/task_2H.cpp.s
+.PHONY : yandex_contest_hw_2/task_2H.cpp.s
+
+yandex_contest_hw_2/task_2I.obj: yandex_contest_hw_2/task_2I.cpp.obj
+.PHONY : yandex_contest_hw_2/task_2I.obj
+
+# target to build an object file
+yandex_contest_hw_2/task_2I.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/yandex_contest_hw_2/task_2I.cpp.obj
+.PHONY : yandex_contest_hw_2/task_2I.cpp.obj
+
+yandex_contest_hw_2/task_2I.i: yandex_contest_hw_2/task_2I.cpp.i
+.PHONY : yandex_contest_hw_2/task_2I.i
+
+# target to preprocess a source file
+yandex_contest_hw_2/task_2I.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/yandex_contest_hw_2/task_2I.cpp.i
+.PHONY : yandex_contest_hw_2/task_2I.cpp.i
+
+yandex_contest_hw_2/task_2I.s: yandex_contest_hw_2/task_2I.cpp.s
+.PHONY : yandex_contest_hw_2/task_2I.s
+
+# target to generate assembly for a file
+yandex_contest_hw_2/task_2I.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/yandex_contest_hw_2/task_2I.cpp.s
+.PHONY : yandex_contest_hw_2/task_2I.cpp.s
+
+yandex_contest_hw_2/task_2J.obj: yandex_contest_hw_2/task_2J.cpp.obj
+.PHONY : yandex_contest_hw_2/task_2J.obj
+
+# target to build an object file
+yandex_contest_hw_2/task_2J.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/yandex_contest_hw_2/task_2J.cpp.obj
+.PHONY : yandex_contest_hw_2/task_2J.cpp.obj
+
+yandex_contest_hw_2/task_2J.i: yandex_contest_hw_2/task_2J.cpp.i
+.PHONY : yandex_contest_hw_2/task_2J.i
+
+# target to preprocess a source file
+yandex_contest_hw_2/task_2J.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/yandex_contest_hw_2/task_2J.cpp.i
+.PHONY : yandex_contest_hw_2/task_2J.cpp.i
+
+yandex_contest_hw_2/task_2J.s: yandex_contest_hw_2/task_2J.cpp.s
+.PHONY : yandex_contest_hw_2/task_2J.s
+
+# target to generate assembly for a file
+yandex_contest_hw_2/task_2J.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/yandex_contest_hw_2/task_2J.cpp.s
+.PHONY : yandex_contest_hw_2/task_2J.cpp.s
 
 # Help Target
 help:
@@ -458,9 +674,36 @@ help:
 	@echo ... yandex_contest_hw_1/task_J.obj
 	@echo ... yandex_contest_hw_1/task_J.i
 	@echo ... yandex_contest_hw_1/task_J.s
-	@echo ... yandex_contest_hw_1/tmp_test.obj
-	@echo ... yandex_contest_hw_1/tmp_test.i
-	@echo ... yandex_contest_hw_1/tmp_test.s
+	@echo ... yandex_contest_hw_2/task_2A.obj
+	@echo ... yandex_contest_hw_2/task_2A.i
+	@echo ... yandex_contest_hw_2/task_2A.s
+	@echo ... yandex_contest_hw_2/task_2B.obj
+	@echo ... yandex_contest_hw_2/task_2B.i
+	@echo ... yandex_contest_hw_2/task_2B.s
+	@echo ... yandex_contest_hw_2/task_2C.obj
+	@echo ... yandex_contest_hw_2/task_2C.i
+	@echo ... yandex_contest_hw_2/task_2C.s
+	@echo ... yandex_contest_hw_2/task_2D.obj
+	@echo ... yandex_contest_hw_2/task_2D.i
+	@echo ... yandex_contest_hw_2/task_2D.s
+	@echo ... yandex_contest_hw_2/task_2E.obj
+	@echo ... yandex_contest_hw_2/task_2E.i
+	@echo ... yandex_contest_hw_2/task_2E.s
+	@echo ... yandex_contest_hw_2/task_2F.obj
+	@echo ... yandex_contest_hw_2/task_2F.i
+	@echo ... yandex_contest_hw_2/task_2F.s
+	@echo ... yandex_contest_hw_2/task_2G.obj
+	@echo ... yandex_contest_hw_2/task_2G.i
+	@echo ... yandex_contest_hw_2/task_2G.s
+	@echo ... yandex_contest_hw_2/task_2H.obj
+	@echo ... yandex_contest_hw_2/task_2H.i
+	@echo ... yandex_contest_hw_2/task_2H.s
+	@echo ... yandex_contest_hw_2/task_2I.obj
+	@echo ... yandex_contest_hw_2/task_2I.i
+	@echo ... yandex_contest_hw_2/task_2I.s
+	@echo ... yandex_contest_hw_2/task_2J.obj
+	@echo ... yandex_contest_hw_2/task_2J.i
+	@echo ... yandex_contest_hw_2/task_2J.s
 .PHONY : help
 
 
