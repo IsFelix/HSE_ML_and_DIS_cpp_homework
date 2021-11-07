@@ -6,9 +6,13 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/Felix Isaakyan/Documents/GitHub/HSE_ML_and_DIS_cpp_homework/yandex_contest_hw_2/task_2J.cpp
+C:/Users/Felix Isaakyan/Documents/GitHub/HSE_ML_and_DIS_cpp_homework/yandex_contest_hw_33/task_33F.cpp
+algorithm
+-
 iostream
 -
 vector
+-
+string
 -
 

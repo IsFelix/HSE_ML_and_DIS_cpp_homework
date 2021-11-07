@@ -1,6 +1,9 @@
 cmake_minimum_required(VERSION 3.0)
 project(untitled)
 
-set(CMAKE_CXX_STANDARD 14)
+set(CMAKE_CXX_STANDARD 17)
 
-add_executable(untitled yandex_contest_hw_1/task_A.cpp yandex_contest_hw_1/task_B.cpp yandex_contest_hw_1/task_C.cpp yandex_contest_hw_1/task_E.cpp yandex_contest_hw_1/task_F.cpp yandex_contest_hw_1/task_B_v2.cpp yandex_contest_hw_1/task_D.cpp yandex_contest_hw_1/task_H.cpp yandex_contest_hw_1/task_I.cpp yandex_contest_hw_1/task_J.cpp yandex_contest_hw_1/task_G.cpp yandex_contest_hw_2/task_2A.cpp yandex_contest_hw_2/task_2B.cpp yandex_contest_hw_2/task_2C.cpp yandex_contest_hw_2/task_2D.cpp yandex_contest_hw_2/task_2E.cpp yandex_contest_hw_2/task_2G.cpp yandex_contest_hw_2/task_2F.cpp yandex_contest_hw_2/task_2H.cpp yandex_contest_hw_2/task_2I.cpp yandex_contest_hw_2/task_2J.cpp)
+#add_executable(untitled yandex_contest_hw_1/task_A.cpp yandex_contest_hw_1/task_B.cpp yandex_contest_hw_1/task_C.cpp yandex_contest_hw_1/task_E.cpp yandex_contest_hw_1/task_F.cpp yandex_contest_hw_1/task_B_v2.cpp yandex_contest_hw_1/task_D.cpp yandex_contest_hw_1/task_H.cpp yandex_contest_hw_1/task_I.cpp yandex_contest_hw_1/task_J.cpp yandex_contest_hw_1/task_G.cpp yandex_contest_hw_2/task_2A.cpp yandex_contest_hw_2/task_2B.cpp yandex_contest_hw_2/task_2C.cpp yandex_contest_hw_2/task_2D.cpp yandex_contest_hw_2/task_2E.cpp yandex_contest_hw_2/task_2G.cpp yandex_contest_hw_2/task_2F.cpp yandex_contest_hw_2/task_2H.cpp yandex_contest_hw_2/task_2I.cpp yandex_contest_hw_2/task_2J.cpp)
+#add_executable(untitled yandex_contest_hw_3/task_3A.cpp yandex_contest_hw_3/task_3C.cpp)
+#add_executable(untitled yandex_contest_hw_33/task_33A.cpp yandex_contest_hw_33/task_33B.cpp yandex_contest_hw_33/task_33C.cpp yandex_contest_hw_33/task_33D.cpp yandex_contest_hw_33/task_33F.cpp yandex_contest_hw_33/task_33H.cpp yandex_contest_hw_33/task_33I.cpp yandex_contest_hw_33/task_33K.cpp yandex_contest_hw_33/task_33N.cpp yandex_contest_hw_33/task_33O.cpp)
+add_executable(untitled yandex_contest_hw_4/task_4A.cpp yandex_contest_hw_4/task_4B.cpp yandex_contest_hw_4/task_4C.cpp yandex_contest_hw_4/task_4D.cpp yandex_contest_hw_4/task_4E.cpp yandex_contest_hw_4/task_4F.cpp yandex_contest_hw_4/task_4G.cpp yandex_contest_hw_4/task_4H.cpp yandex_contest_hw_4/task_4I.cpp yandex_contest_hw_4/task_4J.cpp)
